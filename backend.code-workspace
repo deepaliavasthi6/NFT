@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Kodbank/backend"
+		},
+		{
+			"path": "../Kodbank/frontend"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "frontend"
+	}
+}
